@@ -1,4 +1,4 @@
-# Empanadas Venezolanas 🇻🇪 - Receta con Ingrediente Secreto
+# Empanadas Venezolanas - Receta con Ingrediente Secreto
 
 Este repositorio contiene una receta tradicional venezolana para hacer **empanadas** con un toque especial gracias a un ingrediente secreto. Si eres fan de la comida o quieres sorprender a tus amigos con un platillo delicioso, ¡este es el lugar indicado!
 
